@@ -1,5 +1,6 @@
 Esteban
 Javier Moya Rivero
+edad = 20
 ALFONSO
 Alvaro
 Juan Carlos
