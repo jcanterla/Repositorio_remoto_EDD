@@ -1,4 +1,5 @@
 Esteban
+edad = 18
 Javier Moya Rivero
 edad = 20
 ALFONSO
