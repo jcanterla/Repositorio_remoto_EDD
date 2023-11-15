@@ -2,6 +2,6 @@ Esteban
 Javier Moya Rivero
 edad = 20
 ALFONSO
-Alvaro
+Alvaro = 19
 Juan Carlos
 edad = 22
