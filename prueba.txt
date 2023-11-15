@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Javier Moya Rivero
+=======
+ALFONSO
+>>>>>>> f4ed8234dc953fc2eff978228e7e0ae9c0a52e3f
 =======
 Alvaro
 >>>>>>> 1b7969af364c5f9ace4cd42fee0e89f74b905eeb
