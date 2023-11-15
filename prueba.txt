@@ -3,6 +3,7 @@ edad = 18
 Javier Moya Rivero
 edad = 20
 ALFONSO
+edad = 26
 Alvaro
 edad = 19
 Juan Carlos
