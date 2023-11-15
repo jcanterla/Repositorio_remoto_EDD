@@ -1,17 +1,6 @@
-<<<<<<< HEAD
 Esteban
-
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Javier Moya Rivero
-=======
 ALFONSO
->>>>>>> f4ed8234dc953fc2eff978228e7e0ae9c0a52e3f
-=======
->>>>>>> 3f241a3e568c5b721daea12cde8104b44ed84cd0
 Alvaro
-=======
 Juan Carlos
->>>>>>> 90bb2a88df6f6907daaaff42cdc969a4ee575bad
+edad = 22
